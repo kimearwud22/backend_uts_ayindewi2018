@@ -7,7 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node render.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimearwud22/backend_uts_ayindewi2018.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimearwud22/backend_uts_ayindewi2018/issues"
+  },
+  "homepage": "https://github.com/kimearwud22/backend_uts_ayindewi2018#readme"
 }

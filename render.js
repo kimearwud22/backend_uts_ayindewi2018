@@ -180,5 +180,5 @@ var server = http.createServer(function(request, response) {
 
 });
 
-server.listen(5000);
+server.listen(port);
 console.log("server Berjalan")
